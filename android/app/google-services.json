@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826371855926",
+    "project_id": "buger-louco-v2",
+    "storage_bucket": "buger-louco-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826371855926:android:5d92197e7b58a3e7822a97",
+        "android_client_info": {
+          "package_name": "com.ygor.burger_louco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826371855926-l314uuhksp24939tqknk41qspfl9tcj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFbR20R0SuaNoG3MCHzzBm5jPhUu14SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826371855926-l314uuhksp24939tqknk41qspfl9tcj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
